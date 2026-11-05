@@ -1,5 +1,7 @@
 # CMU 11-768 Assignment 1 — Reference Implementation
 
+[English](README.md) | [中文](README_CN.md)
+
 This repository contains my completed implementation and experiment artifacts for CMU 11-768 Assignment 1: building an agent harness. It is published as a learning reference, not as a standalone starter repository.
 
 **Academic integrity:** Read your course's rules before using this material. Do not submit this implementation, its patches, or its trajectories as your own work. I recommend attempting the assignment first and using this repository only to compare designs and debugging approaches afterward.
@@ -13,6 +15,8 @@ This repository contains my completed implementation and experiment artifacts fo
 - Model-generated working-memory compaction with preserved recent tool steps.
 - Chess-agent tools for live moves, stateless simulation, sandboxed Python, and skills.
 - Generated patches and trajectories evaluated in fresh Modal testbeds.
+
+Assignment instructions: [English](ASSIGNMENT.md) | [中文](ASSIGNMENT_CN.md).
 
 The original assignment scaffold is available at [cmu-agents/assignment-1](https://github.com/cmu-agents/assignment-1). Development used scaffold commit `67498d8` as a reference point.
 
